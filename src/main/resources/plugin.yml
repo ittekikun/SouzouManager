@@ -1,0 +1,21 @@
+name: SouzouManager
+version: 1.0
+main: com.ittekikun.plugin.SouzouManager.SouzouManager
+
+commands:
+   tpm:
+     description: tp
+     permission: souzou.tpm
+     permission-message: You do not have <permission>.
+   tph:
+     description: tp
+     permission: souzou.tph
+     permission-message: You do not have <permission>.
+   tpp:
+     description: tp
+     permission: souzou.tpp
+     permission-message: You do not have <permission>.
+   gm:
+     description: tp
+     permission: souzou.gm
+     permission-message: You do not have <permission>.
